@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+I'm nmac101. I like to create random stuff that's interesting, but doesn't have a purpose.
+Check out some of my repos and you'll know what I mean.
 
 <!--
 **nmac101/nmac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
