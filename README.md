@@ -1,16 +1,10 @@
-<h1 align="center">┌───────┤ Hey 👋, I'm nmac101 ├───────┐</h1>
+<h1 align="center">hiya, im nmac101 :3</h1>
 
 <p align="center">
 <img alt="Static Badge" src="https://img.shields.io/badge/%40nmac101-FFFFFF?style=plastic&logo=youtube&logoColor=FFFFFF&labelColor=FF0000&color=FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40nmac101%2F"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/%40nmac101-FFFFFF?style=plastic&logo=discord&logoColor=FFFFFF&labelColor=7289DA&color=282B30&link=https%3A%2F%2Fgithub.com%2Fnmac101%2F"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/%40Nunonmac101-FFFFFF?style=plastic&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2&color=FFFFFF&link=https%3A%2F%2Ftwitter.com%2Fnunonmac101%2F"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/%40nmac101-FFFFFF?style=plastic&logo=reddit&logoColor=FFFFFF&labelColor=FF5700&color=FFFFFF&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fnmac101%2F"/>
 </p>
 
-
-
-I like to create random stuff that's interesting, but doesn't have a purpose.
-Check out some of my repos and you'll know what I mean.
 
 <!--
 **nmac101/nmac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
