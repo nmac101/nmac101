@@ -1,25 +1,5 @@
-<h1 align="center">hiya, im nmac101 :3</h1>
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/%40nmac101-FFFFFF?style=plastic&logo=youtube&logoColor=FFFFFF&labelColor=FF0000&color=FFFFFF&link=https%3A%2F%2Fwww.youtube.com%2F%40nmac101%2F"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/%40nmac101-FFFFFF?style=plastic&logo=reddit&logoColor=FFFFFF&labelColor=FF5700&color=FFFFFF&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fnmac101%2F"/>
-</p>
-
-
-<!--
-**nmac101/nmac101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/nmac101/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/nmac101/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/nmac101/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+# hey, im [nmac](https://nmac.me/)! ^w^
+this is my github. i store my (bad) personal projects here.
+if u want to, go ahead and check them out! they're useless for the most part, but i'd say they're nice PoCs
+---
+sometimes i private my old repos, usually the most boring ones i made years ago. if you want their code for whatever reason, dm me on whatever socials are on my website
